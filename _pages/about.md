@@ -1,14 +1,25 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a rising third-year PhD student at Princeton University in the Department of Chemical and Biological Engineering. I did my undergraduate work in physics and chemical engineering at the University of Pennsylvania. Here, I did research on quantifying the activity and stability of catalytic materials using quantum mechanical modeling methods, microkinetic models, and classical thermodynamics. My broad interests are in modeling molecular physics, scientific computing, and machine learning. My recent work has focused on representation learning strategies for polymeric materials and designing such materials with Bayesian optimization. My work broadly aims to tackle the following problems:
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+1) Can we design physics-inspired models and optimization algorithms to efficiently search high-dimensional physiochemical design spaces?
+2) How can we better interpret machine learning models to gain physical insights? 
+
+Projects I'm actively pursuing include:
+
+1) Dimensionality reduction of design spaces with deep latent variable models that obey physical constraints
+2) Uncertainty quantification in deep representation learning algorithms for topological polymers
+3) Controlled assembly of soft materials with reinforcement learning
+4) Defining extrapolability and interpolability in sequence and topology defined data
+5) Understanding equilibrium self-assembly with deep latent variable models 
+
 
 A data-driven personal website
 ======
