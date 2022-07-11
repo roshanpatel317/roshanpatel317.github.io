@@ -28,7 +28,7 @@ Publications
 **Machine Learning on a Robotic Platform for the Design of Polymer–Protein Hybrids**
 
 Tamasi, M. J., **Patel, R. A.**, Borca, C. H., Kosuri, S., Mugnier, H., Upadhya, R., Murthy, N. S., Webb, M. A., Gormley, A. J.
-replace ![image](https://your-image-url.type) with <img src="/images/3_enzyme.png" height="100">
+replace ![image](https://your-image-url.type) with <img src="/images/3_enzyme.png" height="600">
 ![adma](https://onlinelibrary.wiley.com/doi/10.1002/adma.202201809?af=R)
 
 **Featurization Strategies for Polymer Sequence or Composition Design by Machine Learning**
