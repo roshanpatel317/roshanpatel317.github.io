@@ -28,23 +28,23 @@ Publications
 **Machine Learning on a Robotic Platform for the Design of Polymer–Protein Hybrids**
 
 Tamasi, M. J., **Patel, R. A.**, Borca, C. H., Kosuri, S., Mugnier, H., Upadhya, R., Murthy, N. S., Webb, M. A., Gormley, A. J.
-replace ![image](https://your-image-url.type) with <img src="/images/3_enzyme.png" height="600">
+<img src="/images/3_enzyme.png" height="300">
 ![adma](https://onlinelibrary.wiley.com/doi/10.1002/adma.202201809?af=R)
 
 **Featurization Strategies for Polymer Sequence or Composition Design by Machine Learning**
 
 **Patel, R. A.**, Borca, C. H., Webb, M. A., 
-![feature](/images/Featurization.png)
+<img src="/images/Featurization.png" height="300">
 ![msde](https://pubs.rsc.org/en/content/articlelanding/2022/me/d1me00160d)
 
 **Machine‐Assisted Discovery of Chondroitinase ABC Complexes toward Sustained Neural Regeneration**
 
 Kosuri, S., Borca, C. H., Mugnier, H.,, Tamasi, M. J., **Patel, R. A.**, Perez, I., Kumar, S., Finkel, Z., Schloss, R., Cai, L., Yarmush, M. L., Webb, M. A., Gormley, A. J.
-![chabc](/images/chabc.png)
+<img src="/images/chabc.png" height="300">
 ![adhma](https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.202102101)
 
 **Surface Stability of Perovskite Oxides under OER Operating Conditions: A First Principles Approach**
 
 Raman, A. S., **Patel, R. A.**, Vojvodic, A., 
-![catalysis](/images/faraday_discuss.png)
+<img src="/images/faraday_discuss.png" height="300">
 ![fd](https://pubs.rsc.org/en/content/articlelanding/2021/FD/C9FD00146H)
