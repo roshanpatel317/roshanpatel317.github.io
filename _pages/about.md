@@ -33,15 +33,18 @@ Tamasi, M. J., **Patel, R. A.**, Borca, C. H., Kosuri, S., Mugnier, H., Upadhya,
 
 **Featurization Strategies for Polymer Sequence or Composition Design by Machine Learning**
 
+**Patel, R. A.**, Borca, C. H., Webb, M. A., 
 ![feature](/images/Featurization.png)
 ![msde](https://pubs.rsc.org/en/content/articlelanding/2022/me/d1me00160d)
 
 **Machine‐Assisted Discovery of Chondroitinase ABC Complexes toward Sustained Neural Regeneration**
 
+Kosuri, S., Borca, C. H., Mugnier, H.,, Tamasi, M. J., **Patel, R. A.**, Perez, I., Kumar, S., Finkel, Z., Schloss, R., Cai, L., Yarmush, M. L., Webb, M. A., Gormley, A. J.
 ![chabc](/images/chabc.png)
 ![adhma](https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.202102101)
 
 **Surface Stability of Perovskite Oxides under OER Operating Conditions: A First Principles Approach**
 
+Raman, A. S., **Patel, R. A.**, Vojvodic, A., 
 ![catalysis](/images/faraday_discuss.png)
 ![fd](https://pubs.rsc.org/en/content/articlelanding/2021/FD/C9FD00146H)
