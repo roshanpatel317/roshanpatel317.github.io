@@ -29,8 +29,6 @@ Title: **Machine Learning on a Robotic Platform for the Design of Polymer–Prot
 
 Authors: Tamasi, M. J., **Patel, R. A.**, Borca, C. H., Kosuri, S., Mugnier, H., Upadhya, R., Murthy, N. S., Webb, M. A., Gormley, A. J.
 
-<img src="/images/3_enzyme.png" height="100">
-
 [Paper](https://onlinelibrary.wiley.com/doi/10.1002/adma.202201809?af=R)
 
 
@@ -38,23 +36,19 @@ Title: **Featurization Strategies for Polymer Sequence or Composition Design by 
 
 Authors: **Patel, R. A.**, Borca, C. H., Webb, M. A.
 
-<img src="/images/Featurization.png" height="100">
-
 [Paper](https://pubs.rsc.org/en/content/articlelanding/2022/me/d1me00160d)
+
 
 Title: **Machine‐Assisted Discovery of Chondroitinase ABC Complexes toward Sustained Neural Regeneration**
 
 Authors: Kosuri, S., Borca, C. H., Mugnier, H.,, Tamasi, M. J., **Patel, R. A.**, Perez, I., Kumar, S., Finkel, Z., Schloss, R., Cai, L., Yarmush, M. L., Webb, M. A., Gormley, A. J.
 
-<img src="/images/chabc.png" height="100">
-
 [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.202102101)
+
 
 Title: **Surface Stability of Perovskite Oxides under OER Operating Conditions: A First Principles Approach**
 
 Authors: Raman, A. S., **Patel, R. A.**, Vojvodic, A.
-
-<img src="/images/faraday_discuss.png" height="100">
 
 [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/FD/C9FD00146H)
 
