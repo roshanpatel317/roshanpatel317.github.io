@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Machine Learning on a Robotic Platform for the Design of Polymer–Protein Hybrids"
+excerpt: "Tamasi, M. J.+, **Patel, R. A.**+, Borca, C. H.+, Kosuri, S.+, Mugnier, H., Upadhya, R., Murthy, N. S., Webb, M. A., Gormley, A. J.<br/><img src='/images/3_enzyme.png'>"
 collection: portfolio
 ---
 
