@@ -25,26 +25,30 @@ I am a rising third-year PhD student at Princeton University in the Department o
 Publications
 ======
 
-**Machine Learning on a Robotic Platform for the Design of Polymer–Protein Hybrids**
+Title: **Machine Learning on a Robotic Platform for the Design of Polymer–Protein Hybrids**
 
-Tamasi, M. J., **Patel, R. A.**, Borca, C. H., Kosuri, S., Mugnier, H., Upadhya, R., Murthy, N. S., Webb, M. A., Gormley, A. J.
+Authors: Tamasi, M. J., **Patel, R. A.**, Borca, C. H., Kosuri, S., Mugnier, H., Upadhya, R., Murthy, N. S., Webb, M. A., Gormley, A. J.
+
 <img src="/images/3_enzyme.png" height="300">
 
 
-**Featurization Strategies for Polymer Sequence or Composition Design by Machine Learning**
+Title: **Featurization Strategies for Polymer Sequence or Composition Design by Machine Learning**
 
-**Patel, R. A.**, Borca, C. H., Webb, M. A., 
+Authors: **Patel, R. A.**, Borca, C. H., Webb, M. A., 
+
 <img src="/images/Featurization.png" height="300">
 
 
-**Machine‐Assisted Discovery of Chondroitinase ABC Complexes toward Sustained Neural Regeneration**
+Title: **Machine‐Assisted Discovery of Chondroitinase ABC Complexes toward Sustained Neural Regeneration**
 
-Kosuri, S., Borca, C. H., Mugnier, H.,, Tamasi, M. J., **Patel, R. A.**, Perez, I., Kumar, S., Finkel, Z., Schloss, R., Cai, L., Yarmush, M. L., Webb, M. A., Gormley, A. J.
+Authors: Kosuri, S., Borca, C. H., Mugnier, H.,, Tamasi, M. J., **Patel, R. A.**, Perez, I., Kumar, S., Finkel, Z., Schloss, R., Cai, L., Yarmush, M. L., Webb, M. A., Gormley, A. J.
+
 <img src="/images/chabc.png" height="300">
 
 
-**Surface Stability of Perovskite Oxides under OER Operating Conditions: A First Principles Approach**
+Title: **Surface Stability of Perovskite Oxides under OER Operating Conditions: A First Principles Approach**
 
-Raman, A. S., **Patel, R. A.**, Vojvodic, A., 
+Authors: Raman, A. S., **Patel, R. A.**, Vojvodic, A., 
+
 <img src="/images/faraday_discuss.png" height="300">
 
