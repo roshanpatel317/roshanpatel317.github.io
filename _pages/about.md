@@ -36,7 +36,7 @@ Authors: Tamasi, M. J., **Patel, R. A.**, Borca, C. H., Kosuri, S., Mugnier, H.,
 
 Title: **Featurization Strategies for Polymer Sequence or Composition Design by Machine Learning**
 
-Authors: **Patel, R. A.**, Borca, C. H., Webb, M. A., 
+Authors: **Patel, R. A.**, Borca, C. H., Webb, M. A.
 
 <img src="/images/Featurization.png" height="100">
 
@@ -52,7 +52,7 @@ Authors: Kosuri, S., Borca, C. H., Mugnier, H.,, Tamasi, M. J., **Patel, R. A.**
 
 Title: **Surface Stability of Perovskite Oxides under OER Operating Conditions: A First Principles Approach**
 
-Authors: Raman, A. S., **Patel, R. A.**, Vojvodic, A., 
+Authors: Raman, A. S., **Patel, R. A.**, Vojvodic, A.
 
 <img src="/images/faraday_discuss.png" height="100">
 
