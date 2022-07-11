@@ -21,3 +21,8 @@ I am a rising third-year PhD student at Princeton University in the Department o
 3. Controlled assembly of soft materials with reinforcement learning
 4. Defining extrapolability and interpolability in sequence and topology defined data
 5. Understanding equilibrium self-assembly with deep, Bayesian latent variable models 
+
+
+Machine Learning on a Robotic Platform for the Design of Polymer–Protein Hybrids
+======
+![3_Enzyme](/images/3_enzyme.png)
