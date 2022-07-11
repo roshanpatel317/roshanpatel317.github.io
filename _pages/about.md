@@ -22,7 +22,18 @@ I am a rising third-year PhD student at Princeton University in the Department o
 4. Defining extrapolability and interpolability in sequence and topology defined data
 5. Understanding equilibrium self-assembly with deep, Bayesian latent variable models 
 
-
-Machine Learning on a Robotic Platform for the Design of Polymer–Protein Hybrids
+Publications
 ======
+
+**Machine Learning on a Robotic Platform for the Design of Polymer–Protein Hybrids**
+Tamasi, M. J., **Patel, R. A.**, Borca, C. H., Kosuri, S., Mugnier, H., Upadhya, R., Murthy, N. S., Webb, M. A., Gormley, A. J.
 ![3_Enzyme](/images/3_enzyme.png)
+
+**Featurization Strategies for Polymer Sequence or Composition Design by Machine Learning**
+![feature](/images/Featurization.png)
+
+Machine‐Assisted Discovery of Chondroitinase ABC Complexes toward Sustained Neural Regeneration
+![chabc](/images/chabc.png)
+
+Surface Stability of Perovskite Oxides under OER Operating Conditions: A First Principles Approach
+![catalysis](/images/faraday_discuss.png)
