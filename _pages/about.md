@@ -28,12 +28,16 @@ Publications
 **Machine Learning on a Robotic Platform for the Design of Polymer–Protein Hybrids**
 Tamasi, M. J., **Patel, R. A.**, Borca, C. H., Kosuri, S., Mugnier, H., Upadhya, R., Murthy, N. S., Webb, M. A., Gormley, A. J.
 ![3_Enzyme](/images/3_enzyme.png)
+![adma](https://onlinelibrary.wiley.com/doi/10.1002/adma.202201809?af=R)
 
 **Featurization Strategies for Polymer Sequence or Composition Design by Machine Learning**
 ![feature](/images/Featurization.png)
+![msde](https://pubs.rsc.org/en/content/articlelanding/2022/me/d1me00160d)
 
 Machine‐Assisted Discovery of Chondroitinase ABC Complexes toward Sustained Neural Regeneration
 ![chabc](/images/chabc.png)
+![adhma](https://onlinelibrary.wiley.com/doi/full/10.1002/adhm.202102101)
 
 Surface Stability of Perovskite Oxides under OER Operating Conditions: A First Principles Approach
 ![catalysis](/images/faraday_discuss.png)
+![fd](https://pubs.rsc.org/en/content/articlelanding/2021/FD/C9FD00146H)
