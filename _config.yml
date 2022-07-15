@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Roshan Patel"
-  avatar           : "/images/roshan.png"
+  avatar           : "profile.png"
   bio              : "PhD Student"
   location         : "Princeton, New Jersey"
   employer         :
