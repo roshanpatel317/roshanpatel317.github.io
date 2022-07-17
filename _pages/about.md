@@ -11,7 +11,7 @@ I am a rising third-year PhD student at Princeton University in the Department o
 
 **I am interested in tackling the following problems:**
 
-1. Can we design physics-inspired models and optimization algorithms to efficiently search high-dimensional physiochemical design spaces?
+1. Can we couple physics-inspired models and optimization algorithms to efficiently search high-dimensional physiochemical design spaces?
 2. How can we better interpret machine learning models to gain physical insights? 
 
 **Projects I'm actively pursuing include:**
@@ -27,10 +27,11 @@ Publications
 
 Title: **Machine Learning on a Robotic Platform for the Design of Polymer–Protein Hybrids**
 
-Authors: Tamasi, M. J., **Patel, R. A.**, Borca, C. H., Kosuri, S., Mugnier, H., Upadhya, R., Murthy, N. S., Webb, M. A., Gormley, A. J.
+Authors: Tamasi, M. J.+, **Patel, R. A.**+, Borca, C. H.+, Kosuri, S.+, Mugnier, H., Upadhya, R., Murthy, N. S., Webb, M. A., Gormley, A. J.
 
 [Paper](https://onlinelibrary.wiley.com/doi/10.1002/adma.202201809?af=R)
 
++ Denotes Equal Contribution
 
 Title: **Featurization Strategies for Polymer Sequence or Composition Design by Machine Learning**
 
