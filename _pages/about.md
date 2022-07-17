@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a rising third-year PhD student at Princeton University in the Department of Chemical and Biological Engineering. I did my undergraduate work in physics and chemical engineering at the University of Pennsylvania. Here, my research focused on quantifying the activity and stability of catalytic materials using quantum mechanical modeling methods, microkinetic models, and classical thermodynamics. My broad interests are in modeling molecular physics, scientific computing, and machine learning. My recent work has focused on representation learning strategies for polymeric materials and designing such materials with Bayesian optimization. 
+I am a rising third-year PhD student at Princeton University in the Department of Chemical and Biological Engineering. I did my undergraduate work in physics and chemical engineering at the University of Pennsylvania. Here, my research focused on quantifying the activity and stability of catalytic materials for sustainable hydrogen fuel production using quantum mechanical modeling methods, microkinetic models, and classical thermodynamics. My broad interests are in modeling molecular physics, scientific computing, and machine learning. My recent work has focused on representation learning strategies for polymeric materials and designing such materials with Bayesian optimization. 
 
 **I am interested in tackling the following problems:**
 
